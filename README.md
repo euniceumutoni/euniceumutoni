@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @euniceumutoni
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on github & linked in
-- 📫 How to reach me linkedin.com/in/euniceumutoni/
+Hey my name is Eunice Umutoni, I am an aspiring software developer. 
+I am currently learning HTML,CSS, and JavaScript.
+I am also working on a couple  websites. 
+If you want to connect with me, here is my LinkedIn - www.linkedin.com/in/euniceumutoni
+
 
 <!---
 euniceumutoni/euniceumutoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
