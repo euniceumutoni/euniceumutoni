@@ -1,7 +1,8 @@
 Hey my name is Eunice Umutoni, I am an aspiring software developer. 
-I am currently learning HTML,CSS, and JavaScript.
+I am currently learning HTML,CSS, and JavaScript through Udemy.
 I am also working on a couple  websites. 
 If you want to connect with me, here is my LinkedIn - www.linkedin.com/in/euniceumutoni
+
 
 
 <!---
