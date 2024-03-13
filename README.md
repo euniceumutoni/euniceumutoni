@@ -2,9 +2,9 @@ Hey, my name is Eunice Umutoni.
 
 I am a full-stack developer. 
 
-I am currently learning front end and back end development through Udemy.
+I am currently learning front-end and back-end development through Udemy.
 
-I am also working on a couple  websites. 
+I am also working on a couple of  websites. 
 
 
 If you want to connect with me, here is my LinkedIn - www.linkedin.com/in/euniceumutoni
