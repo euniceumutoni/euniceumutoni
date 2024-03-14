@@ -1,4 +1,4 @@
-I am a full-stack developer. I am currently learning front-end and back-end development through Udemy. I am also working on a couple of  websites. 
+I am soon to be a full-stack developer. 
 
 If you want to connect with me, here is my LinkedIn - www.linkedin.com/in/euniceumutoni
 
