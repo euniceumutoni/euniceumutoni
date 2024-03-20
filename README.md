@@ -1,4 +1,4 @@
 Full-Stack Developer
 
-If you want to connect with me, here is my LinkedIn - www.linkedin.com/in/euniceumutoni 
+Here is my LinkedIn - www.linkedin.com/in/euniceumutoni 
  
