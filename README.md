@@ -1,4 +1,4 @@
-A bit of everything
+Developer
 
 Add my LinkedIn - www.linkedin.com/in/euniceumutoni 
  
