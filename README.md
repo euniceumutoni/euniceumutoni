@@ -1,4 +1,4 @@
 Aspiring Full Stack Developer
 
-Check my LinkedIn - www.linkedin.com/in/euniceumutoni 
+Check out my LinkedIn - www.linkedin.com/in/euniceumutoni 
  
