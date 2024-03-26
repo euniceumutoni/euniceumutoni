@@ -1,4 +1,4 @@
-Aspiring Full Stack Developer that is ooking for internships!
+Aspiring Full Stack Developer who is looking for internships!
 
 Check out my LinkedIn
 www.linkedin.com/in/euniceumutoni 
